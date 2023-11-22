@@ -1,0 +1,23 @@
+Thomas Horsley
+83f34f8
+Planets are showing and hitboxes are built
+Branch,master
+4 days ago
+
+Thomas Horsley
+0ff5821
+Finished wander functionality
+Branch,master
+5 days ago
+
+Thomas Horsley
+c720637
+Follow path functionality complete
+Branch,master
+5 days ago
+
+Thomas Horsley
+7ea6f86
+Completed lab 08, Added flee functionality and deceleration speeds. Physical properties of agents modified.
+Branch,master
+2023-04-17

@@ -1,0 +1,10 @@
+Unit: COS30002
+Author: Thomas Horsley - 103071494
+Date: 02/03/2023
+
+Added:
+	- COS30002 Project and COS30002 - 103071494 Repo created.
+	- Added shell_repo folder structure to the master branch.
+
+Changed:
+	- Editted README

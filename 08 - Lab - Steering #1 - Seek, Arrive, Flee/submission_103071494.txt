@@ -1,0 +1,7 @@
+Thomas@DESKTOP-O6OBBG4 MINGW64 /e/Uni/COS30002 - 103071494 (master)
+$ git log
+commit 7ea6f86509a4f99cf75ace6866f9596d0099775c (HEAD -> master, origin/master)
+Author: Schlock <103071494@student.swin.edu.au>
+Date:   Mon Apr 17 17:52:50 2023 +1000
+
+    Completed lab 08, Added flee functionality and deceleration speeds. Physical properties of agents modified.
